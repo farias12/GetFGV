@@ -1,1 +1,1 @@
-charts/README.md
+README.md
